@@ -5,6 +5,7 @@ My scripts related to one of the study subjects, which are advanced image proces
 ## content
 
 > ### [_labs no. 1_](1)
+> ***
 > - [\[ View! \]](1/t1.m) `t1.m` - _**RGB matrix**_: 4 pixels vertically: _red_, _green_, _gray_, _black_
 > ***
 > - [\[ View! \]](1/t2.m) `t2.m` - _**DOUBLE colormap**_: 4 pixels vertically: _red_, _green_, _gray_, _black_
@@ -24,3 +25,4 @@ My scripts related to one of the study subjects, which are advanced image proces
 ***
 
 >  ### [_labs no. 2_](2)
+> ***
