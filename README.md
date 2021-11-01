@@ -35,4 +35,42 @@ My scripts related to one of the study subjects, which are advanced image proces
 
 ### [_labs no. 2_](2)
 
+- [\[ View! \]](2/t1.m) `t1.m` - _**no variance**_: left half of the image in _blue_
+
 #
+
+- [\[ View! \]](2/t2.m) `t2.m` - _**no variance**_: _green_ picture border
+
+#
+
+- [\[ View! \]](2/t3.m) `t3.m` - _**FULL blue**_: `t1.m` and `t2.m` combined
+- [\[ View! \]](2/t3b.m) `t3b.m` - _**TRANSPARENT blue**_: `t1.m` and `t2.m` combined
+
+#
+
+- [\[ View! \]](2/t4.m) `t4.m` - _**no variance**_: lightening and darkening
+
+#
+
+- [\[ View! \]](2/t5.m) `t5.m` - _**MANUAL resolution change**_: overlapping two images
+- [\[ View! \]](2/t5b.m) `t5b.m` - _**AUTO resolution change `if`**_: overlapping two images
+
+#
+
+- [\[ View! \]](2/t6.m) `t6.m` - _**no variance**_: copy from _red_ to _blue_ and _green_
+
+#
+
+- [\[ View! \]](2/t7.m) `t7.m` - _**no variance**_: chessboard made of _green_
+
+***
+
+### [_labs no. 3_](3)
+
+
+
+
+
+
+
+

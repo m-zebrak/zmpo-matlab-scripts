@@ -1,4 +1,4 @@
-### [_labs no. 1_](1)
+### _labs no. 1_
 
 - [\[ View! \]](t1.m) `t1.m` - _**RGB matrix**_: 4 pixels vertically: _red_, _green_, _gray_, _black_
 
