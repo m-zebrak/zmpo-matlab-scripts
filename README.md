@@ -78,6 +78,17 @@ My scripts related to one of the study subjects, which are advanced image proces
 
 ***
 
+### [_labs no. 4_](4)
+
+- [\[ View! \]](4/zxc.m) `zxc.m` - _**auxiliary function**_: closing all the windows, clearing workspace
+
+#
+
+- [\[ View! \]](4/t1.m) `t1.m` - _**no variance**_: uicontrol blur, rotate and colormap
+- [\[ View! \]](4/f1.m) `f1.m` - _**function used in t1.m**_
+
+***
+
 
 
 
