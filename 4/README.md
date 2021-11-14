@@ -1,4 +1,4 @@
-### _labs no. 4
+### _labs no. 4_
 
 - [\[ View! \]](zxc.m) `zxc.m` - _**auxiliary function**_: closing all the windows, clearing workspace
 
