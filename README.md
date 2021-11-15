@@ -84,8 +84,9 @@ My scripts related to one of the study subjects, which are advanced image proces
 
 #
 
-- [\[ View! \]](4/t1.m) `t1.m` - _**no variance**_: uicontrol blur, rotate and colormap
-- [\[ View! \]](4/f1.m) `f1.m` - _**function used in t1.m**_
+- [\[ View! \]](4/t1.m) `t1.m` - _**uicontrols by constructor**_: uicontrol blur, rotate and colormap
+- [\[ View! \]](4/t1b.m) `t1b.m` - _**uicontrols by variables**_: uicontrol blur, rotate and colormap
+- [\[ View! \]](4/f1.m) `f1.m` - _**function used in t1.m and t1b.m**_
 
 ***
 
