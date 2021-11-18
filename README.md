@@ -90,6 +90,13 @@ My scripts related to one of the study subjects, which are advanced image proces
 
 ***
 
+### _labs no. 5_(5)
+
+- [\[ View! \]](5/t1.m) `t1.m` - _**no variance**_: uicontrol _red_ and _green_ control, light curtain
+- [\[ View! \]](5/f1.m) `f1.m` - _**function used in t1.m**_
+
+#
+
 
 
 
