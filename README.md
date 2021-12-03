@@ -95,13 +95,22 @@ My scripts related to one of the study subjects, which are advanced image proces
 - [\[ View! \]](5/t1.m) `t1.m` - _**no variance**_: uicontrol _red_ and _green_ control, light curtain
 - [\[ View! \]](5/f1.m) `f1.m` - _**function used in t1.m**_
 
+***
+
 ### [_labs no. 6_](6)
 
 - [\[ View! \]](6/t1.m) `t1.m` - _**no variance**_: image filtering - sobel (0, 45, 90, 135), laplacian, median,
   averaging
 - [\[ View! \]](6/f1.m) `f1.m` - _**function used in t1.m**_
 
-#
+***
+
+### [_labs no. 7_](7)
+
+- [\[ View! \]](7/t1.m) `t1.m` - _**writing**_: hiding image in image
+- [\[ View! \]](7/t2.m) `t2.m` - _**reading**_ hiding image in image
+
+***
 
 
 
